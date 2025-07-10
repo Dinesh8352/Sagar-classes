@@ -1,3 +1,3 @@
 # Sagar-classes
 
-git clone== which is used to clone the repo
+git commit== which is used to commit the code changes
