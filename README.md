@@ -1,3 +1,5 @@
 # Sagar-classes
 
-git commit== which is used to commit the code changes
+git checkout == which is used to change the branch by using like this git checkout teja
+
+here teja is a new branch 
