@@ -1,6 +1,8 @@
 # Sagar-classes
 
-getting nothing
+GIT reset : this will help to move from working area to stagging area
 
- Git clone 10-0
-git clone added 
+git rm: remove files from working area  
+git rebase: indivisual commit into other branchg
+fgggit fgfhjghdfjh
+fhgjkdfhgit a
